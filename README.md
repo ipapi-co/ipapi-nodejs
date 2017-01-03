@@ -1,12 +1,17 @@
 
 # Node.js + ipapi (IP address location API)
 
+## Installation
+```
+npm install ipapi.co
+```
+
 ## Usage
 
 ### From Node.js REPL
 
 ```
-var ipapi = require('./ipapi.js');
+var ipapi = require('ipapi.co');
 
 var callback = function(res){
     console.log(res);
