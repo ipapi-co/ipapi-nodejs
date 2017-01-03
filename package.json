@@ -1,0 +1,37 @@
+{
+  "name": "ipapi.co",
+  "version": "0.2.1",
+  "description": "IP address location API - https://ipapi.co",
+  "main": "ipapi.js",
+  "keywords": [
+    "geolocation",
+    "ip address",
+    "ip address geolocation",
+    "ip address lookup",
+    "ip address to location",
+    "ip address tracer",
+    "ip address tracker",
+    "ip checker",
+    "ip lookup",
+    "ip tracker",
+    "ip-address",
+    "ipapi",
+    "ipapi.co",
+    "ipv4",
+    "ipv6",
+    "location",
+    "lookup ip address",
+    "trace ip address"
+  ],
+  "author": "ipapi <pweb@ipapi.co>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ipapi-co/ipapi-nodejs.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://ipapi.co",
+  "logo": "https://ipapi.co/static/images/icon/icon-64.png"
+}
