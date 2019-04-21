@@ -37,7 +37,7 @@ var _request = function(path, callback, isJson){
     });
 
     req.on('error', function(e) {
-      console.log('Request Error ! ' + e.message);
+      callback(new Error(e));
     });
 };
 
