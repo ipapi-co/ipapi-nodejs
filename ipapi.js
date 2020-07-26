@@ -73,10 +73,10 @@ var location = function(callback, ip, key, field){
     }
 
     if ((typeof key !== 'undefined') && (key !== '')){
-        path = path + '?key=' + key;
+        path = path + '?access_key=' + key;
     } else {
         if (API_KEY !== ''){
-            path = path + '?key=' + API_KEY;
+            path = path + '?access_key=' + API_KEY;
         } 
     }
 
