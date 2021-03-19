@@ -1,6 +1,8 @@
 
 # Node.js + ipapi (IP address location API)
 
+## [ipapi.co by Kloudend, Inc.](https://ipapi.co/)
+
 ## Installation
 ```
 npm install ipapi.co
