@@ -5,7 +5,7 @@ var https = require('https');
 
 var API_KEY = '';
 
-var headers   = {'user-agent': 'ipapi/ipapi-nodejs/0.3.0'};
+var headers   = {'user-agent': 'ipapi/ipapi-nodejs/0.4.1'};
 
 var fieldList = ['ip', 'city', 'region', 'country', 'postal', 
                   'latitude', 'longitude', 'timezone', 'latlong'];
